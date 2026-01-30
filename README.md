@@ -1,8 +1,3 @@
----
-
-
----
-
 # Archival Case Studies
 
 These are case studies originally created by Josh Kitchens for teaching archival theory and practice.
