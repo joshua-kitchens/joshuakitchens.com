@@ -1,0 +1,36 @@
+---
+title: "That's the Way the boxes Tumble (An Arrangement and Description Case Study)"
+date: "2017-10-23"
+author: joshuakitchens
+_wpcom_is_markdown:
+  - "1"
+  - "1"
+_wpas_done_all:
+  - "1"
+  - "1"
+_jetpack_related_posts_cache:
+  8f6677c9d6b0f903e98ad32ec61f8deb:
+    expires: "1761747198"
+    payload:
+      -
+        id: "172"
+      -
+        id: "170"
+      -
+        id: "160"
+_edit_last: "1"
+---
+
+<p>Learning Objectives</p>
+<p>    Explain how provenance and original order are useful for organizing records.<br />
+    Describe principles of hierarchical levels of arrangement.<br />
+    Define structure units: fonds, collection, record group, series, subseries, filing unit, item, “component.””</p>
+<p>Scenario</p>
+<p>You're a new archivist at Zeta University in the processing department. You've been assigned to review and arrange three new collections that have arrived other the last several days.</p>
+<p>One collection is a local author's personal paper collection. This collection is approximately ten 1 cubic foot boxes. Reviewing it you'll note that some correspondence has been organized chronologically by correspondent. While the rest was just thrown into boxes. The author's novel manuscripts are not arranged at all, but various drafts and galley proofs of works are held together by rubber bands. There is also a box of awards and other nick-nacks.</p>
+<p>The other materials are a bit more complicated. It seems that a very tiny, but strong localized earthquake occurred in your storage area. That or Jerry had come through at some point. Jerry always leaves destruction in his wake. Regardless the other materials you need to arrange are a categorical mess. You know that this grouping of records is all university records, but you can make out records from the History Department, including some faculty papers (1 Cubic foot) which includes two folders of photographs that have been well labeled, papers from the registrars office including reports and student records (10 cubic feet), and correspondence from the Office of the President (5 cubic feet). All of the materials are rather jumbled and a mess. You should also remember that you already have an office of the president collection that has three series: Correspondence, with subseries by year; Reports; Board of Governors. Governors.</p>
+<p>Questions</p>
+<p>    How would you arrange these collections?<br />
+    How much long do you think these arrangement activities would take an archivist? How might you determine using the best guess the amount of time it would take to arrange these collections? What resource could you use to help make this guess?<br />
+    Which collection should get priority?</p>
+<p>Bibliography</p>
