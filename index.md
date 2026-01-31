@@ -11,7 +11,7 @@ Here are links to those case studies
 - [link](case-studies\beggars-cant-be-choosers-an-outreach-case-study.md)
 - [link](case-studies\change-one-for-the-gipper.md)
 - [link](case-studies\coming-out-of-the-closet-and-the-basement-a-preservation-case-study.md)
-- [link]case-studies\did-you-get-that-thing-i-sent-you-a-reference-case-study.md
+- [link](case-studies\did-you-get-that-thing-i-sent-you-a-reference-case-study.md
 - [link](case-studies\everything-but-the-kitchen-sink-a-preservation-case-study.md)
 - [link](case-studies\forest-for-the-the-trees-a-records-management-case-study.md)
 - [link](case-studies\georgia-election-server-records-management-case-study.md)
