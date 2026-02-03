@@ -2,23 +2,6 @@
 title: "Forest for the the Trees a records management case study"
 date: "2017-10-18"
 author: joshuakitchens
-_wpcom_is_markdown:
-  - "1"
-  - "1"
-_wpas_done_all:
-  - "1"
-  - "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: "1768856543"
-    payload:
-      -
-        id: "81"
-      -
-        id: "172"
-      -
-        id: "170"
-_edit_last: "1"
 ---
 
 <p>Learning Objectives</p>

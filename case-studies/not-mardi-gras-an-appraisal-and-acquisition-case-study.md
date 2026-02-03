@@ -2,22 +2,6 @@
 title: "Not Mardi Gras (An Appraisal and Acquisition Case Study)"
 date: "2017-10-18"
 author: joshuakitchens
-_wpcom_is_markdown: "1"
-_wpas_done_all:
-  - "1"
-  - "1"
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: "1768061260"
-    payload:
-      -
-        id: "164"
-      -
-        id: "101"
-      -
-        id: "180"
-_edit_lock: "1553200130:1"
 ---
 
 <p>Learning Objectives</p>

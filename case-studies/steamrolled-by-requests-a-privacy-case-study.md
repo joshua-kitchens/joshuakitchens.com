@@ -2,18 +2,6 @@
 title: "Steamrolled by requests: A Privacy Case Study"
 date: "2018-01-27"
 author: joshuakitchens
-_wpcom_is_markdown: "1"
-_wpas_done_all: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: "1768194899"
-    payload:
-      -
-        id: "154"
-      -
-        id: "170"
-      -
-        id: "147"
 ---
 
 <p>Learning Objectives</p>

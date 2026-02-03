@@ -2,20 +2,6 @@
 title: "Grey Haired Area"
 date: "2019-04-09"
 author: joshuakitchens
-_wpcom_is_markdown: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: "1768766858"
-    payload:
-      -
-        id: "109"
-      -
-        id: "101"
-      -
-        id: "160"
-_edit_lock: "1554847740:1"
-_wpas_done_all: "1"
-_edit_last: "1"
 ---
 
 <p>Learning Objects</p>

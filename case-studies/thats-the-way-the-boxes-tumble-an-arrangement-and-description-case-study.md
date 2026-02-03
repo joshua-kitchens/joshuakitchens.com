@@ -2,23 +2,6 @@
 title: "That's the Way the boxes Tumble (An Arrangement and Description Case Study)"
 date: "2017-10-23"
 author: joshuakitchens
-_wpcom_is_markdown:
-  - "1"
-  - "1"
-_wpas_done_all:
-  - "1"
-  - "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: "1761747198"
-    payload:
-      -
-        id: "172"
-      -
-        id: "170"
-      -
-        id: "160"
-_edit_last: "1"
 ---
 
 <p>Learning Objectives</p>

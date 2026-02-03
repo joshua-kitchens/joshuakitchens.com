@@ -2,18 +2,6 @@
 title: "Everything But the Kitchen Sink (A Preservation Case Study)"
 date: "2018-03-20"
 author: joshuakitchens
-_wpcom_is_markdown: "1"
-_wpas_done_all: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: "1769506434"
-    payload:
-      -
-        id: "194"
-      -
-        id: "154"
-      -
-        id: "122"
 ---
 
 <p>Learning Objectives</p>

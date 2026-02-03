@@ -2,20 +2,6 @@
 title: "Georgia Election Server: Records Management Case Study"
 date: "2017-11-08"
 author: joshuakitchens
-_wpcom_is_markdown: "1"
-_edit_lock: "1510188398:1"
-_edit_last: "1"
-_wpas_done_all: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: "1769404894"
-    payload:
-      -
-        id: "39"
-      -
-        id: "9"
-      -
-        id: "147"
 ---
 
 <p>Learning Objectives</p>

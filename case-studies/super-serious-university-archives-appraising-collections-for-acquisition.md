@@ -2,19 +2,6 @@
 title: "Super Serious University Archives Appraising Collections for acquisition"
 date: "2017-10-25"
 author: joshuakitchens
-_wpcom_is_markdown: "1"
-_wpas_done_all: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: "1769343221"
-    payload:
-      -
-        id: "109"
-      -
-        id: "194"
-      -
-        id: "154"
-_edit_lock: "1586285297:1"
 ---
 
 <p>Learning Objectives</p>

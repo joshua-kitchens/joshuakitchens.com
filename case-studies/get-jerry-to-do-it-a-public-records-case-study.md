@@ -2,20 +2,6 @@
 title: "Get Jerry to do it: A public records case study"
 date: "2018-03-09"
 author: joshuakitchens
-_wpcom_is_markdown: "1"
-_edit_lock: "1520614240:1"
-_edit_last: "1"
-_wpas_done_all: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: "1767729947"
-    payload:
-      -
-        id: "160"
-      -
-        id: "170"
-      -
-        id: "101"
 ---
 
 <p>Learning Objectives</p>

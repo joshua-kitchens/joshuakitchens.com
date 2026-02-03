@@ -2,13 +2,6 @@
 title: "One of Us"
 date: "2017-10-25"
 author: joshuakitchens
-_wpcom_is_markdown: "1"
-_wpas_done_all: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: "1769296851"
-    payload:
-_edit_lock: "1559057672:1"
 ---
 
 <p>Learning Objectives</p>

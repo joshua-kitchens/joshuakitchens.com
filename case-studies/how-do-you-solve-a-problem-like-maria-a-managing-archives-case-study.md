@@ -2,20 +2,6 @@
 title: "How do you Solve a Problem like Maria? (A Managing Archives Case Study)"
 date: "2017-10-26"
 author: joshuakitchens
-_wpcom_is_markdown: "1"
-_edit_lock: "1509041316:1"
-_edit_last: "1"
-_wpas_done_all: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: "1764786696"
-    payload:
-      -
-        id: "154"
-      -
-        id: "103"
-      -
-        id: "105"
 ---
 
 <p>Learning Objectives</p>

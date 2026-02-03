@@ -2,20 +2,6 @@
 title: "No Such thing as a Free Lunch (An Outreach Case Study)"
 date: "2018-02-27"
 author: joshuakitchens
-_wpcom_is_markdown: "1"
-_edit_lock: "1519744223:1"
-_edit_last: "1"
-_wpas_done_all: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: "1764732499"
-    payload:
-      -
-        id: "109"
-      -
-        id: "182"
-      -
-        id: "152"
 ---
 
 <p>Learning Objectives</p>

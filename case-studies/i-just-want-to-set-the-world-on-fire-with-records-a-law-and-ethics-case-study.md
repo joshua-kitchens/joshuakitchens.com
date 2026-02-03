@@ -2,20 +2,7 @@
 title: "I Just want to set the World On Fire with Records (A Law and Ethics Case Study)"
 date: "2017-11-20"
 author: joshuakitchens
-_wpcom_is_markdown: "1"
-_edit_lock: "1511191699:1"
-_edit_last: "1"
-_wpas_done_all: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: "1767277834"
-    payload:
-      -
-        id: "160"
-      -
-        id: "187"
-      -
-        id: "170"
+
 ---
 
 <p>Learning Objectives</p>

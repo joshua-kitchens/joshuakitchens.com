@@ -2,20 +2,6 @@
 title: "Change One for the Gipper"
 date: "2018-01-13"
 author: joshuakitchens
-_wpcom_is_markdown: "1"
-_edit_last: "1"
-_edit_lock: "1516315905:1"
-_wpas_done_all: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: "1769133347"
-    payload:
-      -
-        id: "147"
-      -
-        id: "187"
-      -
-        id: "170"
 ---
 
 <p>Learning Objectives</p>

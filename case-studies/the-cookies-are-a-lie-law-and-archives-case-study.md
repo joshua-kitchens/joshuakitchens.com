@@ -2,20 +2,6 @@
 title: "The Cookies are a Lie: Law and Archives Case Study"
 date: "2018-01-18"
 author: joshuakitchens
-_wpcom_is_markdown: "1"
-_edit_last: "1"
-_wpas_done_all: "1"
-_edit_lock: "1516315917:1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: "1768813699"
-    payload:
-      -
-        id: "160"
-      -
-        id: "101"
-      -
-        id: "147"
 ---
 
 <p>Learning Objectives</p>

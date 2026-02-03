@@ -2,18 +2,6 @@
 title: "Out with the Old"
 date: "2017-10-25"
 author: joshuakitchens
-_wpcom_is_markdown: "1"
-_wpas_done_all: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: "1764707597"
-    payload:
-      -
-        id: "122"
-      -
-        id: "105"
-      -
-        id: "182"
 ---
 
 <p>Learning Objectives</p>

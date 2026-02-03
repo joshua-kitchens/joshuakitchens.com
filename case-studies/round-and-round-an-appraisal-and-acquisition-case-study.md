@@ -2,20 +2,6 @@
 title: "Round and Round (An Appraisal and Acquisition Case Study)"
 date: "2018-01-30"
 author: joshuakitchens
-_wpcom_is_markdown: "1"
-_edit_lock: "1548184112:1"
-_edit_last: "1"
-_wpas_done_all: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: "1768569983"
-    payload:
-      -
-        id: "9"
-      -
-        id: "101"
-      -
-        id: "154"
 ---
 
 <p>Learning Objectives</p>

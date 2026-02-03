@@ -2,19 +2,6 @@
 title: "That's not what you mean: Intro to Archives"
 date: "2019-05-28"
 author: joshuakitchens
-_wpcom_is_markdown: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: "1759837166"
-    payload:
-      -
-        id: "194"
-      -
-        id: "109"
-      -
-        id: "103"
-_edit_lock: "1560138763:1"
-_wpas_done_all: "1"
 ---
 
 <p>Learning objectives</p>
