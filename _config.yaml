@@ -1,6 +1,14 @@
 ---
 title: "joshuakitchens.com"
 remote_theme: pages-themes/cayman@v0.2.0
+
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: false
+
 plugins:
 - jekyll-remote-theme
+
+
 ---

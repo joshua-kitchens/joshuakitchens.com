@@ -2,10 +2,6 @@
 title: Home Page
 date: 2026-02-03
 tags: 
-titles_from_headings:
-  enabled:     true
-  strip_title: false
-  collections: false
 ---
 # joshuakitchens.com
 
