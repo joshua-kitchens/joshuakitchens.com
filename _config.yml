@@ -10,7 +10,7 @@ markdown: kramdown
 highlighter: rouge
 
 collections:
-  cast_studies:
+  case_studies:
     output: true
     permalink: /:collection/:name/
   posts:
