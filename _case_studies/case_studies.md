@@ -6,7 +6,12 @@ permalink: /case_studies/
 
 # {{ page.title }}
 
-{% for item in site.case_studies %}
-- [{{ item.title }}]({{ item.url | relative_url }})
-  {% if item.excerpt %}{{ item.excerpt }}{% endif %}
+{% for study in site.case_studies %}
+## [{{ study.title }}]({{ study.url | relative_url }})
+
+{% if study.description %}
+{{ study.description }}
+{% endif %}
+
+---
 {% endfor %}

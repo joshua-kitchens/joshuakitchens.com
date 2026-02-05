@@ -3,7 +3,7 @@ author: Josh Kitchens
 description: Site for archivists Joshua Kitchens. Includes thoughts, information, and educational casestudies.
 
 navbar-links:
-  Vita: vita.md
+  Vita: /vita/
 
 timezone: "America/New_York"
 markdown: kramdown
@@ -13,8 +13,6 @@ collections:
   case_studies:
     output: true
     permalink: /:collection/:name/
-  posts:
-    output: true
 
 remote_theme: pages-themes/cayman@v0.2.0
 
