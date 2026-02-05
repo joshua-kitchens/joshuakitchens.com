@@ -1,9 +1,7 @@
 ---
 title: joshuakitchens.com
 date: 2026-02-03
-tags: 
 ---
-# 
 
 ## Archived Musings
 
