@@ -3,6 +3,7 @@ layout: default
 title: Case Studies
 permalink: /case_studies/
 ---
+[Vita](/vita/) | [Case Studies](/case-studies/) | [Home](/index.md)
 
 # {{ page.title }}
 
