@@ -1,0 +1,9 @@
+main:
+  - title: Case Studies
+    url: /case_studies/
+  - title: Musings
+    url: /musings/
+  - title: Vita
+    url: /vita/
+  - title: About
+    url: /about/

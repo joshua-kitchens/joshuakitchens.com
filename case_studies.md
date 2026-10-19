@@ -1,18 +1,10 @@
 ---
-layout: default
 title: Case Studies
 permalink: /case_studies/
+redirect_from: /case-studies/
+excerpt: Case studies for teaching archives and archival issues.
 ---
-[Vita](/vita/) | [Case Studies](/case-studies/) | [Home](/index.md)
 
-# {{ page.title }}
+Case studies for teaching archives and archival issues, grouped by topic. Each includes learning objectives, a scenario, discussion questions, and (where available) a bibliography.
 
-{% for study in site.case_studies %}
-## [{{ study.title }}]({{ study.url | relative_url }})
-
-{% if study.description %}
-{{ study.description }}
-{% endif %}
-
----
-{% endfor %}
+{% include case-study-list.html heading="h2" %}

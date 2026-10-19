@@ -1,14 +1,14 @@
 ---
-title: joshuakitchens.com
-date: 2026-02-03
+title: Joshua Kitchens
+excerpt: Archivist and educator. Case studies for teaching archives and archival issues.
 ---
-[Vita](/vita/) | [Case Studies](/case-studies/)
 
-## Archived Musings
+I'm an archivist and educator. This site collects the case studies I've written for teaching archives and archival issues, older [musings](/musings/) from my blog, and my [vita](/vita/).
 
 ## Archival Case Studies
 
-The lecture is dead. Long live the Lecture. I hate the lecture format, and as part of my efforts to move away from it, I've created a series of case studies to teach archives and archival issues. You'll find them here available under a Creative Commons license. View my case studies bellow
+The lecture is dead. Long live the lecture. I hate the lecture format, and as part of my efforts to move away from it, I've created a series of case studies to teach archives and archival issues. They're available here under a Creative Commons license.
 
-### [link](case_studies/)
+{% include case-study-list.html heading="h3" %}
 
+See also: [Interactive Case Studies](/interactive-case-studies/)
