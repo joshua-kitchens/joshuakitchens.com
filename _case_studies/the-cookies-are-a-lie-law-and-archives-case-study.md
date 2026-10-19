@@ -1,7 +1,6 @@
 ---
 title: "The Cookies Are a Lie (A Law and Archives Case Study)"
 date: 2018-01-18
-author: Joshua Kitchens
 category: "Law & Ethics"
 description: "A trusted researcher is caught stealing letters, and the donor family wants a meeting."
 ---

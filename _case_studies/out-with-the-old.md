@@ -1,7 +1,6 @@
 ---
 title: "Out with the Old (A Reference Case Study)"
 date: 2017-10-25
-author: Joshua Kitchens
 category: "Reference"
 description: "Building a formal reference program for an archives that has never had one."
 ---

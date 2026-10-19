@@ -1,7 +1,6 @@
 ---
 title: "Beggars Can't Be Choosers (An Outreach Case Study)"
 date: 2018-02-27
-author: Joshua Kitchens
 category: "Outreach"
 description: "Reviving a lecture series and workshops whose attendance is declining."
 ---

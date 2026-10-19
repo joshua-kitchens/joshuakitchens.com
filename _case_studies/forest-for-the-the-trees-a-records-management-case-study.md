@@ -1,7 +1,6 @@
 ---
 title: "Forest for the Trees (A Records Management Case Study)"
 date: 2017-10-18
-author: Joshua Kitchens
 category: "Records Management"
 description: "Designing capture and registration systems for records at a pulp and paper company."
 ---

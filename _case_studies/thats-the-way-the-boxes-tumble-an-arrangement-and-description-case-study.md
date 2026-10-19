@@ -1,7 +1,6 @@
 ---
 title: "That's the Way the Boxes Tumble (An Arrangement and Description Case Study)"
 date: 2018-02-13
-author: Joshua Kitchens
 category: "Arrangement & Description"
 description: "Arranging a literary collection and a jumbled mix of university records."
 ---

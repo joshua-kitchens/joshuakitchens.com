@@ -1,7 +1,6 @@
 ---
 title: "How Do You Solve a Problem Like Maria? (A Managing Archives Case Study)"
 date: 2017-10-26
-author: Joshua Kitchens
 category: "Management"
 description: "Supervising a difficult staff member ahead of a major electronic records project."
 ---

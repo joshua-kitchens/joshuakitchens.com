@@ -1,7 +1,6 @@
 ---
 title: "One of Us (An Outreach Case Study)"
 date: 2017-10-25
-author: Joshua Kitchens
 category: "Outreach"
 description: "Library administration orders a small archives staff to substantially increase its outreach."
 ---

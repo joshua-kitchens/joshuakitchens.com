@@ -1,0 +1,21 @@
+{%- comment -%}
+Case studies grouped by their `category` front matter. Pass heading="h2" or "h3".
+Kept unindented: this renders inside Markdown pages, where indented lines become code blocks.
+{%- endcomment -%}
+{%- assign heading = include.heading | default: "h2" -%}
+{%- assign groups = site.case_studies | sort: "title" | group_by: "category" | sort: "name" -%}
+<div class="case-study-list">
+{%- for group in groups %}
+<{{ heading }} class="archive__subtitle" id="{{ group.name | slugify }}">{{ group.name }}</{{ heading }}>
+<div class="entries-list">
+{%- for study in group.items %}
+<div class="list__item"><article class="archive__item">
+<h3 class="archive__item-title no_toc"><a href="{{ study.url | relative_url }}">{{ study.title }}</a></h3>
+{%- if study.description %}
+<p class="archive__item-excerpt">{{ study.description }}</p>
+{%- endif %}
+</article></div>
+{%- endfor %}
+</div>
+{%- endfor %}
+</div>

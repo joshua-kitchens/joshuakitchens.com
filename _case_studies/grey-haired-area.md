@@ -1,7 +1,6 @@
 ---
 title: "Grey Haired Area (A Privacy and Access Case Study)"
 date: 2019-04-09
-author: Joshua Kitchens
 category: "Privacy & Access"
 description: "An unsolicited box of alumni group records arrives containing scandalous and racist correspondence."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Change One for the Gipper (A Law Case Study)"
 date: 2018-01-13
-author: Joshua Kitchens
 category: "Law & Ethics"
 description: "A last-minute amendment extends open records response times for athletics records only."
 ---

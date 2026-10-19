@@ -1,7 +1,6 @@
 ---
 title: "Not Mardi Gras (An Appraisal and Acquisition Case Study)"
 date: 2017-10-18
-author: Joshua Kitchens
 category: "Appraisal & Acquisition"
 description: "Troubling images turn up during a quick review of a university photographer's 1TB of files."
 ---

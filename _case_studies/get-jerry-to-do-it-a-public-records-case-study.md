@@ -1,7 +1,6 @@
 ---
 title: "Get Jerry to Do It (A Public Records Case Study)"
 date: 2018-03-09
-author: Joshua Kitchens
 category: "Privacy & Access"
 description: "Responding to three public records requests at a Massachusetts government agency."
 ---

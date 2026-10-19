@@ -1,7 +1,6 @@
 ---
 title: "Steamrolled by Requests (A Privacy Case Study)"
 date: 2018-01-27
-author: Joshua Kitchens
 category: "Privacy & Access"
 description: "A controversial Klan collection, requests for its users' identities, and a will ordering manuscripts destroyed."
 ---

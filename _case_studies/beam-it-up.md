@@ -1,7 +1,6 @@
 ---
 title: "Beam It Up, Archivist (A Law Case Study)"
 date: 2019-01-15
-author: Joshua Kitchens
 category: "Law & Ethics"
 description: "Deciding how to put three collections online when each comes with a different copyright problem."
 ---

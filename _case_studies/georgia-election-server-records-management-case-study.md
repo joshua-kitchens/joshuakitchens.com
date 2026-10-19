@@ -1,7 +1,6 @@
 ---
 title: "Georgia Election Server (A Records Management Case Study)"
 date: 2017-11-08
-author: Joshua Kitchens
 category: "Records Management"
 description: "Examining the 2017 wiping of Georgia election server data at Kennesaw State University."
 ---

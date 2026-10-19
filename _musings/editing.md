@@ -1,7 +1,0 @@
----
-title: Editing
-date: 2011-12-15
-author: Joshua Kitchens
----
-
-I think i've got the visuals closer to what I'd like for theme to be. Is it just me but is playing with the design of a page time-consuming and not always fruitful especially when you are borrowing a lot of your design elements. So hopefully now, for the most part, I can spend some time writing not designing and clicking buttons in hopes of making things look pretty.

@@ -1,7 +1,6 @@
 ---
 title: "Super Serious University Archives (An Appraisal and Acquisition Case Study)"
 date: 2017-10-25
-author: Joshua Kitchens
 category: "Appraisal & Acquisition"
 description: "Appraising nine offered collections against a detailed collecting policy."
 ---

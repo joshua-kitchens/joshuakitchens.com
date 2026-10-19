@@ -1,7 +1,6 @@
 ---
 title: "No Such Thing as a Free Lunch (An Outreach Case Study)"
 date: 2018-02-27
-author: Joshua Kitchens
 category: "Outreach"
 description: "Your archives is invited to give its standard family-records talk to the Sons of Confederate Veterans."
 ---

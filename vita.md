@@ -1,7 +1,10 @@
 ---
 title: Vita
 permalink: /vita/
-description: Joshua F. Kitchens, CA
+excerpt: Joshua F. Kitchens, CA
+toc: true
+toc_sticky: true
+toc_label: Contents
 ---
 
 ## Education and Certification

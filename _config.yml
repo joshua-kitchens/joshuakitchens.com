@@ -1,53 +1,78 @@
+remote_theme: mmistakes/minimal-mistakes@4.28.1
+minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 title: Joshua Kitchens
-author: Joshua Kitchens
 description: Archivist and educator. Case studies for teaching archives and archival issues.
 url: https://joshuakitchens.com
-lang: en-US
-
+locale: en-US
 timezone: America/New_York
+repository: joshua-kitchens/joshuakitchens.com
+
+search: true
+words_per_minute: 200
+
+author:
+  name: Joshua Kitchens
+  bio: Archivist and educator. Director of the Archival Studies Program at Clayton State University.
+  location: Georgia
+  links:
+    - label: Vita
+      icon: fas fa-fw fa-file-lines
+      url: /vita/
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/joshua-kitchens
+
+footer:
+  links:
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/joshua-kitchens
+
 markdown: kramdown
-highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
 
-remote_theme: pages-themes/cayman@v0.2.0
-
-# Header navigation (rendered by _layouts/default.html)
-nav:
-  - title: Home
-    url: /
-  - title: Case Studies
-    url: /case_studies/
-  - title: Vita
-    url: /vita/
-  - title: About
-    url: /about/
+# Musings (old blog posts) keep WordPress-style dated URLs.
+permalink: /:year/:month/:day/:title/
 
 collections:
   case_studies:
     output: true
     permalink: /:collection/:name/
-  # Old WordPress posts, cleaned up but not yet published.
-  # Set output: true (and add a listing page) to put them on the site.
-  musings:
-    output: false
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
-
-titles_from_headings:
-  enabled: true
-  strip_title: false
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-redirect-from
 
 exclude:
   - .vscode
   - Gemfile
   - Gemfile.lock
   - README.md
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true
+      show_date: true
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: case_studies
+    values:
+      show_date: true
+      share: true

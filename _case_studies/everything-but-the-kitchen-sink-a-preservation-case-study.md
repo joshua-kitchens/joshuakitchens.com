@@ -1,7 +1,6 @@
 ---
 title: "Everything But the Kitchen Sink (A Preservation Case Study)"
 date: 2018-03-20
-author: Joshua Kitchens
 category: "Preservation"
 description: "Responding to a flood and HVAC failure over a long weekend, with and without a disaster plan."
 ---

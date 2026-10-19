@@ -1,7 +1,6 @@
 ---
 title: "Did You Get That Thing I Sent You? (A Reference Case Study)"
 date: 2017-10-25
-author: Joshua Kitchens
 category: "Reference"
 description: "Handling two social media incidents on a business archives' accounts."
 ---

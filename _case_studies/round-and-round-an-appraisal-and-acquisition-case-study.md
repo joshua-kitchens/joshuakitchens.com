@@ -1,7 +1,6 @@
 ---
 title: "Round and Round (An Appraisal and Acquisition Case Study)"
 date: 2018-01-30
-author: Joshua Kitchens
 category: "Appraisal & Acquisition"
 description: "A well-connected local historian offers your archives a legendary spinning wheel."
 ---

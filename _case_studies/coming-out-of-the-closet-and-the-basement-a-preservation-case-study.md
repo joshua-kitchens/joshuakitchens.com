@@ -1,7 +1,6 @@
 ---
 title: "Coming Out of the Closet and the Basement (A Preservation Case Study)"
 date: 2018-03-20
-author: Joshua Kitchens
 category: "Preservation"
 description: "Managing collections scattered across closets and a leaky basement while a new archives space is built."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "That's Not What You Mean (An Introduction to Archives Case Study)"
 date: 2019-05-28
-author: Joshua Kitchens
 category: "Introduction to Archives"
 description: "Sorting a professor's box marked \"This is all archival\" into records and non-records."
 ---

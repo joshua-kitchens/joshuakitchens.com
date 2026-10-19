@@ -1,7 +1,6 @@
 ---
 title: Interactive Case Studies
 date: 2017-10-18
-author: Joshua Kitchens
 permalink: /interactive-case-studies/
 ---
 

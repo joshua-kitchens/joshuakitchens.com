@@ -1,7 +1,6 @@
 ---
 title: "An Exhibit of Many Colors (An Outreach Case Study)"
 date: 2017-10-25
-author: Joshua Kitchens
 category: "Outreach"
 description: "Planning an alumni-weekend exhibit when student groups, including a new gay-straight alliance, want to contribute displays."
 ---

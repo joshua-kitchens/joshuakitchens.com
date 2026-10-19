@@ -1,7 +1,6 @@
 ---
 title: "I Just Want to Set the World on Fire with Records (A Law and Ethics Case Study)"
 date: 2017-11-20
-author: Joshua Kitchens
 category: "Law & Ethics"
 description: "A journalist asks to see the sealed portion of a retired senator's papers."
 ---
