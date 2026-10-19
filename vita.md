@@ -9,9 +9,6 @@ toc_label: Contents
 
 ## Education and Certification
 
-### Georgia State University, Atlanta, GA (2017–Present)
-- Currently enrolled as a Public History Ph.D. candidate
-
 ### Clayton State University, Morrow, GA (2011–2014)
 - Masters of Archival Studies, Fall 2014
 
@@ -29,8 +26,11 @@ toc_label: Contents
 
 ## Professional Experience
 
+### Director, Archival Services and Digital Intiatives
+**Georgia Public Library Services, Atlanta, GA** September 2022 - Present
+
 ### Director, Archival Studies Program and Assistant Professor
-**Clayton State University, Morrow, GA** · August 2015–Present
+**Clayton State University, Morrow, GA** · August 2015 – August 2022 
 
 - Scheduled, filled and taught courses.
 - Planned, revised curriculum and program instructional approaches.
